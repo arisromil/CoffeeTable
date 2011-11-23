@@ -1,1 +1,1 @@
-jQuerified version of table2CSV 
+Modified table2CSV plugin to prompt for the download file and handle <BR> tags inside the table
