@@ -1,1 +1,2 @@
-Modified table2CSV plugin to prompt for the download file and handle <BR> tags inside the table
+CoffeeScript implementation of the table2csv jQuery plugin. The jsps included is for demo purposes only.
+Also included is the generated .js file.
